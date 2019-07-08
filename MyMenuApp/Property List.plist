@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Appetizers</string>
+		<key>image</key>
+		<string>http://aromasian.com/wp-content/uploads/2017/08/vietnamese-fresh-spring-roll-goi-cuon.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sandwiches</string>
+		<key>image</key>
+		<string>http://ninjabubbleteaic.com/wp-content/uploads/2015/08/Banh-Mi-Sandwich-Vegetarian-copy.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Beef Soup (PHO)</string>
+		<key>image</key>
+		<string>https://delightfulplate.com/wp-content/uploads/2017/10/Vietnamese-beef-stew-pho-noodle-soup.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Seafood Soups</string>
+		<key>image</key>
+		<string>https://media.cooky.vn/recipe/g1/1552/s750x468/recipe1552-635684240661925692.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Vermicelli Noodle</string>
+		<key>image</key>
+		<string>https://daynauan.info.vn/images/hoc-nau-an/hoc-mo-quan-bun-thit-nuong.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Stir Fried Flat Noodle</string>
+		<key>image</key>
+		<string>http://www.randomlengthsnews.com/wp-content/uploads/2016/01/pho-ap-chao-bo.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Broken Rice Dished</string>
+		<key>image</key>
+		<string>https://www.vietnam-travel.org/wp-content/uploads/2015/12/700028724451.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Vegeterian Dishes</string>
+		<key>image</key>
+		<string>http://thewanderlustkitchen.com/wp-content/uploads/2017/02/vegan-bun-chay-vietnamese-noodle-salad-5.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fried Rice Dishes</string>
+		<key>image</key>
+		<string>https://shipdoandemff.com/wp-content/uploads/2017/06/com-chien-hai-san-nha-hang-shipdoandemFF.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Boba Drinks</string>
+		<key>image</key>
+		<string>https://i.pinimg.com/736x/9d/cc/6d/9dcc6d6c5b384553560f861241b95a8d--milk-tea-bubble-tea.jpg</string>
+	</dict>
+</array>
+</plist>
